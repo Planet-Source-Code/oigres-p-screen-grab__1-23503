@@ -1,0 +1,16 @@
+[History]
+B0=Project1/Form1/Form_MouseMove
+B1=Project1/Module1/max
+B2=Project1/Module1/savepictureRoutine
+B3=Project1/Form1/Form_MouseUp
+B4=Project1/MDIForm1/GetScreenSnapshot
+B5=Project1/frmChild/myfunc
+B6=Project1/frmChild/Picture1_Click
+B7=Project1/frmChild/Form_Unload
+B8=Project1/Form1/movelines
+B9=Project1/frmChild/Form_Activate
+B10=Project1/frmChild/Form_Load
+B11=Project1/MDIForm1/mnuProperties_Click
+B12=Project1/MDIForm1/mnuExit_Click
+B13=Project1/MDIForm1/mnuSave_Click
+B14=Project1/MDIForm1/Timer1_Timer
